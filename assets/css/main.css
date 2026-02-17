@@ -1627,3 +1627,13 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+/*--------------------------------------------------------------
+# Portfolio Image Section
+--------------------------------------------------------------*/
+.port-img {
+  width: 100%;
+  aspect-ratio: 16/10;
+  object-fit: cover;
+  padding: 0;
+}
